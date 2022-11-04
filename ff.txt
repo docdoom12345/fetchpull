@@ -5,3 +5,4 @@ world
 world
 world
 This line will not show in git fetch
+This line will show in git pull
