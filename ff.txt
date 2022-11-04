@@ -4,4 +4,3 @@ hello
 world
 world
 world
-This is a new line in public repo
