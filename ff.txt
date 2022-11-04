@@ -2,3 +2,4 @@ adding 1st line
 adding 2nd line
 world
 world
+This line will not show in git fetch
