@@ -1,2 +1,2 @@
 tester
-new content.
+new content
