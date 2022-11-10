@@ -2,4 +2,4 @@ run a pipeline job:
   tags:
   - github
   script:
-  - echo "Testing a pipeline"
+  - git status
