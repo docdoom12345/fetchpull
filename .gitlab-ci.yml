@@ -5,3 +5,4 @@ run a pipeline job:
   - echo "entering the git project."
   - git status
   - git branch --all
+  - git log --oneline
