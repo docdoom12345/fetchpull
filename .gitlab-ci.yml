@@ -4,4 +4,4 @@ run a pipeline job:
   script:
   - echo "entering the git project."
   - git status
-  - git branch
+  - git branch --all
