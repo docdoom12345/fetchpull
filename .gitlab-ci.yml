@@ -1,0 +1,8 @@
+run a pipeline job:
+  tags:
+  - github
+  script:
+  - echo "entering the git project."
+  - git status
+  - git branch --all
+  - git log --oneline
